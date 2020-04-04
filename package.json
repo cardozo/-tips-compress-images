@@ -1,0 +1,14 @@
+{
+    "name": "exemplo-cardozo",
+    "version": "0.0.2",
+    "description": "App simples em node",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "compress-images": "^1.6.3",
+        "tinify": "^1.6.0-beta.2"
+    },
+    "devDependencies": {}
+}
